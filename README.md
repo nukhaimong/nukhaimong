@@ -2,6 +2,12 @@
 <h3 align="center">Backend-Focused Full Stack Developer from Chittagong, Bangladesh</h3>
 
 <p align="center">
+  <a href="https://nukhai-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -79,9 +85,16 @@ I'm a **backend-focused full stack developer** who loves building scalable, main
   <a href="https://wa.me/8801890651384">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  <a href="https://github.com/nukhaimong">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
+
+<p align="center">
+  🌐 <strong>Visit my portfolio:</strong> <a href="https://nukhai-portfolio.vercel.app/">nukhai-portfolio.vercel.app</a>
+</p>
 
 <p align="center">
   <i>"Clean code. Constant learning. Building things that matter."</i>
